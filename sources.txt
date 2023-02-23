@@ -1,0 +1,7 @@
+Язык программирования C# 7 и платформы .NET и .NET Core, 8-е изд. - Эндрю Троелсен, Филипп Джепикс (2018)
+https://tproger.ru/translations/reactive-programming/
+https://habr.com/ru/amp/post/552872/
+https://www.reactiveui.net/docs/
+https://www.codeproject.com/Articles/5308645/Multiplatform-UI-Coding-with-AvaloniaUI-in-Easy-Sa
+https://www.dotnetperls.com/
+https://docs.avaloniaui.net/
